@@ -50,7 +50,7 @@ npm (v6 or higher)
 Step 1: Clone the Repository
 
 Copy code
-git clone https://github.com/your-username/rbac-ui.git
+git clone https://github.com/shani-p-a/rbac-ui.git
 cd rbac-ui
 Step 2: Install Dependencies
 Install all the required dependencies using npm:
